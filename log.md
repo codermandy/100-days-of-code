@@ -28,3 +28,12 @@
 18. [Use the flex Shorthand Property](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-shorthand-property)
 19. [Use the order Property to Rearrange Items](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-order-property-to-rearrange-items)
 20. [Use the align-self Property](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-align-self-property)
+
+
+### Day 1 & 2: June 02 & 03, 2018 Saturday & Sunday
+
+**Today's Progress**: Finish Responsive Web Design Projects - Build a Survey Form (FCC challenge).
+
+**Thoughts:** Last two days I'm being little bit slow about the challenge. But I know, I can do lot better. I need to keep going, my learning and working speed will be increase very soon.
+
+**Link to work:** [Survey Form](https://github.com/a2-zubair/survey-form).
