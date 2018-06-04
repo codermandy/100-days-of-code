@@ -37,3 +37,12 @@
 **Thoughts:** Last two days I'm being little bit slow about the challenge. But I know, I can do lot better. I need to keep going, my learning and working speed will be increase very soon.
 
 **Link to work:** [Survey Form](https://github.com/a2-zubair/survey-form).
+
+
+### Day 3: June 04, 2018 Monday
+
+**Today's Progress**: Complete my resume, Update my portfolio site and Joining a new community giltch.
+
+**Thoughts:** Today I'm joining a new community. I'm feeling exited very much and looking forward to meet some new friends. Though I'm doing little bit slow speed but I know I'll keep going until I win.
+
+**Link to work:** [Survey Form](https://survey-form.glitch.me/).
