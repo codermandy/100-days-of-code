@@ -52,7 +52,7 @@
 
 **Today's Progress**: Update my portfolio site & complete the FCC css grid.
 
-**Thoughts:** I think I like css grid more than flexbox. I'll use css grid to my next project. Still need to do lot's of work. But "keep going" is my moto. 
+**Thoughts:** I think I like css grid more than flexbox. I'll use css grid to my next project. Still need to do lot's of work. But "keep going" is my motto. 
 
 **Link to work:** 
 1. [Create Your First CSS Grid](https://learn.freecodecamp.org/responsive-web-design/css-grid/create-your-first-css-grid)
