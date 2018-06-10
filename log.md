@@ -77,3 +77,8 @@
 20. [Create Flexible Layouts Using auto-fit](https://learn.freecodecamp.org/responsive-web-design/css-grid/create-flexible-layouts-using-auto-fit)
 21. [Use Media Queries to Create Responsive Layouts](https://learn.freecodecamp.org/responsive-web-design/css-grid/use-media-queries-to-create-responsive-layouts)
 22. [Create Grids within Grids](https://learn.freecodecamp.org/responsive-web-design/css-grid/create-grids-within-grids)
+
+
+### Day 6, 7 & 8: June 07, 08 & 09, 2018 Thursday, Friday and Saturday.
+
+**Thoughts:** I have been sick last couple of days. No work to progress, last time i was working on FCC project product landing page. Hopefully after getting better i'll come back strongly.
