@@ -88,7 +88,7 @@
 
 ### Day 10: June 11, 2018 Monday.
 
-**Thoughts:** Start Sass challenge in FCC. Writhing Sass is little bit weird for me. But it's super easy to understand and use. 
+**Thoughts:** Start Sass challenge in FCC. Writing Sass is little bit weird for me. But it's super easy to understand and use. 
 
 **Link to work:** 
 1. (Store Data with Sass Variables)[https://learn.freecodecamp.org/front-end-libraries/sass/store-data-with-sass-variables]
