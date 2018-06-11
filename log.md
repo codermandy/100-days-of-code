@@ -79,6 +79,20 @@
 22. [Create Grids within Grids](https://learn.freecodecamp.org/responsive-web-design/css-grid/create-grids-within-grids)
 
 
-### Day 6, 7 & 8: June 07, 08 & 09, 2018 Thursday, Friday and Saturday.
+### Day 6, 7, 8 & 9: June 07, 08, 09 & 10 2018 Thursday, Friday, Saturday and Sunday.
+
+**Note:** These days are not count for this challenge. I'll cover those days. 
 
 **Thoughts:** I have been sick last couple of days. No work to progress, last time i was working on FCC project product landing page. Hopefully after getting better i'll come back strongly.
+
+
+### Day 10: June 11, 2018 Monday.
+
+**Thoughts:** Start Sass challenge in FCC. Writhing Sass is little bit weird for me. But it's super easy to understand and use. 
+
+**Link to work:** 
+1. (Store Data with Sass Variables)[https://learn.freecodecamp.org/front-end-libraries/sass/store-data-with-sass-variables]
+2. (Nest CSS with Sass)[https://learn.freecodecamp.org/front-end-libraries/sass/nest-css-with-sass]
+3. (Create Reusable CSS with Mixins)[https://learn.freecodecamp.org/front-end-libraries/sass/create-reusable-css-with-mixins]
+4. (Use @if and @else to Add Logic To Your Styles)[https://learn.freecodecamp.org/front-end-libraries/sass/use-if-and-else-to-add-logic-to-your-styles]
+5. (Use @for to Create a Sass Loop)[https://learn.freecodecamp.org/front-end-libraries/sass/use-for-to-create-a-sass-loop]
