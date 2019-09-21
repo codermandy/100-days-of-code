@@ -14,7 +14,7 @@
 ### Day 3: Sep 20, 2019 Friday
 **Today's Progress** FCC: project survey form submitted
 
-### Day 1: Sep 21, 2019 Saturday
+### Day 4: Sep 21, 2019 Saturday
 **Today's Progress** FCC: product landing page project started
 
 
